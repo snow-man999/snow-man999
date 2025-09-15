@@ -1,7 +1,7 @@
 ###
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, there!</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=𝓑𝓵𝓸𝓬𝓴𝓬𝓱𝓪𝓲𝓷+ & + 𝓐𝓘 + & + 𝓕𝓾𝓵𝓵 𝓼𝓽𝓪𝓬𝓴 + 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓹𝓻𝓸𝓿𝓲𝓭𝓲𝓷𝓰+𝓷𝓮𝔀+𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷&center=true&width=1000&height=70&font-size=200"></img>
+<img src="https://readme-typing-svg.herokuapp.com?lines=𝓑𝓵𝓸𝓬𝓴𝓬𝓱𝓪𝓲𝓷+, + 𝓐𝓘 +, + 𝓕𝓾𝓵𝓵 𝓼𝓽𝓪𝓬𝓴 + 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓹𝓻𝓸𝓿𝓲𝓭𝓲𝓷𝓰+𝓷𝓮𝔀+𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷&center=true&width=1000&height=70&font-size=200"></img>
 
 <h2 font-weight="bold">❄ᗩ𝒷𝑜𝓊𝓉 ൱𝑒</h2>
 
