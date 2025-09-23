@@ -8,7 +8,7 @@
 ###
 
 <p align="left" font-size="30px"><b><i>
-I’m a Blockchain and Full-Stack AI Engineer with 9+ years of experience building secure and scalable applications. I specialize in smart contracts and decentralized apps across EVM and non-EVM chains, including Ethereum, Polygon, BSC, Solana, Tron, and Sui.
+I’m a Blockchain and Full-Stack AI Engineer with 7+ years of experience building secure and scalable applications. I specialize in smart contracts and decentralized apps across EVM and non-EVM chains, including Ethereum, Polygon, BSC, Solana, Tron, and Sui.
 I’ve worked on projects such as DEXs, perpetual trading platforms, cross-chain bridges, staking systems, presale platforms, NFT marketplaces, and multi-chain launchpads. My focus is on delivering complete solutions in DeFi, NFTs, and cross-chain interoperability, often enhanced with AI for automation, optimization, and predictive insights.
 Moving from corporate development into freelancing has given me the flexibility to work closely with teams and take on challenging projects. I also enjoy sharing knowledge and exploring new ideas around blockchain and AI.<br>
 </p>
