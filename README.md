@@ -149,11 +149,11 @@ I used to be in corporate development, but moving into freelancing gave me more 
 
 
 <div align=center>
-<!-- 🐍 GitHub Contribution Snake 
+<!-- 🐍 GitHub Contribution Snake -->
 <img src="https://raw.githubusercontent.com/infiniteriseup/infiniteriseup/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>-->
-<img src="https://github.com/snowman/snowman/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<img src="https://github.com/snowman/snowman/blob/output/github-contribution-grid-snake.svg" />
 
 
 
